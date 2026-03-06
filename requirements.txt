@@ -1,3 +1,0 @@
-NVIDIA_API_KEY=nvapi-your-actual-key-here
-NVIDIA_BASE_URL=https://integrate.api.nvidia.com/v1
-MODEL_ID=z-ai/glm-4-9b-0414
