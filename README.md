@@ -231,11 +231,10 @@ Possible enhancements:
 
 ---
 
-## 📚 References
-
-- NVIDIA NIM Platform
-- Microsoft Agent Framework
-- OpenAI API Documentation
+## 📚 Resources
+NVIDIA NIM: https://build.nvidia.com/
+Microsoft Agent Framework: https://learn.microsoft.com/agent-framework/
+OpenAI API Spec: https://platform.openai.com/docs/api-reference
 
 ---
 
