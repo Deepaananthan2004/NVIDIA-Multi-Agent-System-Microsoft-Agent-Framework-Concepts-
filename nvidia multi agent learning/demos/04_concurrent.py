@@ -1,7 +1,9 @@
 import asyncio
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from core.agent import NIMAgent
 from orchestrations.concurrent import ConcurrentOrchestrator
-
 
 async def main():
 
